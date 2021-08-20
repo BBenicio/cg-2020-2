@@ -7491,3 +7491,266 @@ Script call stack:
 [2021.08.20-06.39.32:195][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.08.20-06.39.32:979][ 19]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
 [2021.08.20-06.39.32:979][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.46.05:189][954]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M/0M_color.0M_color
+[2021.08.20-06.46.05:190][954]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.08.20-06.46.05:198][954]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.20-06.46.05:198][954]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.20-06.46.05:198][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.20-06.46.05:198][954]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.20-06.46.05:255][954]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.08.20-06.46.05:268][954]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.08.20-06.46.05:286][954]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.20-06.46.06:290][988]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.20-06.46.06:802][  7]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.20-06.46.07:226][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.20-06.46.07:247][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.20-06.46.08:227][ 60]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.20-06.46.08:227][ 60]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.20-06.46.08:264][ 61]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.20-06.46.08:628][ 73]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.20-06.46.09:028][ 90]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.20-06.46.09:065][ 90]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.46.09:065][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.46.15:726][260]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/M/Mi_Color_02.Mi_Color_02
+[2021.08.20-06.46.52:159][947]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/M/Mi_Frozen_03.Mi_Frozen_03
+[2021.08.20-06.49.09:450][715]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.49.09:450][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.49.10:162][752]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.49.10:162][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.49.24:952][130]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Sm/Sm_Box.Sm_Box
+[2021.08.20-06.56.23:312][248]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_05.Bp_Block_05
+[2021.08.20-06.56.27:337][355]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.56.27:337][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.56.27:411][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_05.Bp_Block_05
+[2021.08.20-06.57.11:974][276]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.57.11:974][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-06.57.16:403][427]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-06.57.16:403][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.08.30:342][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris/Bp_Tetris" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset" SILENT=true
+[2021.08.20-07.08.30:564][162]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Tetris62CC79A8481A5F9B51E8A292B3652A88.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset'
+[2021.08.20-07.08.30:586][162]AssetCheck: New page: Asset Save: Bp_Tetris
+[2021.08.20-07.08.30:586][162]LogContentValidation: Display: Validating Blueprint /Game/Tetris/Bp_Tetris.Bp_Tetris
+[2021.08.20-07.19.47:444][715]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.20-07.19.56:578][ 29]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.20-07.20.06:081][317]BlueprintLog: New page: Compilar Bp_Tetris
+[2021.08.20-07.20.06:367][317]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2021.08.20-07.20.13:425][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris/Bp_Tetris" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset" SILENT=true
+[2021.08.20-07.20.13:654][597]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_TetrisDC3497DF4DF10BA9AF85AD899C4A7CBD.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset'
+[2021.08.20-07.20.13:669][597]AssetCheck: New page: Asset Save: Bp_Tetris
+[2021.08.20-07.20.13:669][597]LogContentValidation: Display: Validating Blueprint /Game/Tetris/Bp_Tetris.Bp_Tetris
+[2021.08.20-07.20.15:171][662]LogTemp: Repeating last play command: Standalone Game
+[2021.08.20-07.20.15:224][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.08.20-07.20.20:604][662]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2021.08.20-07.20.20:646][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.20-07.20.20:673][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.08.20-07.20.20:689][662]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Map6756D67344CBD368385973A95C7D9F1F.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Map/Map.umap'
+[2021.08.20-07.20.20:694][662]LogFileHelpers: Saving map 'Map' took 0.047
+[2021.08.20-07.20.20:733][663]AssetCheck: New page: Asset Save: Map
+[2021.08.20-07.20.20:733][663]LogContentValidation: Display: Validating World /Game/Map/Map.Map
+[2021.08.20-07.20.52:526][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.20-07.20.52:527][252]PIE: New page: Sessão de PIE : Map (20 de ago de 2021 01:20:52)
+[2021.08.20-07.20.52:528][252]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2021.08.20-07.20.52:533][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004430s)
+[2021.08.20-07.20.52:536][252]LogAIModule: Creating AISystem for world Map
+[2021.08.20-07.20.52:538][252]LogPlayLevel: PIE: World Init took: (0.004084s)
+[2021.08.20-07.20.52:538][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.009311s)
+[2021.08.20-07.20.52:564][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.08.20-07.20.52:569][252]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.08.20-07.20.52:569][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.20-07.20.52:569][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.20-07.20.52:569][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.20-07.20.52:569][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.20-07.20.52:569][252]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.20-07.20.52:569][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.20-07.20.52:569][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.20-07.20.52:569][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.20-07.20.52:571][252]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.20-07.20.52:571][252]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.20-07.20.52:573][252]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.20-07.20.52:573][252]LogAudioMixer: Display: 1: FrontRight
+[2021.08.20-07.20.52:591][252]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.08.20-07.20.52:598][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.20-07.20.52:598][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.20-07.20.52:598][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.20-07.20.52:605][252]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.20-07.20.52:605][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.20-07.20.52:605][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.20-07.20.52:613][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.20-07.20.52:613][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.20-07.20.52:613][252]LogInit: FAudioDevice initialized.
+[2021.08.20-07.20.52:613][252]LogAudio: Display: Audio Device (ID: 57) registered with world 'Map'.
+[2021.08.20-07.20.52:673][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-07.20.52:674][252]LogLoad: Game class is 'MyGameMode_C'
+[2021.08.20-07.20.52:683][252]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2021.08.20-04.20.52
+[2021.08.20-07.20.52:684][252]LogWorld: Bringing up level for play took: 0.007790
+[2021.08.20-07.20.52:685][252]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2021.08.20-07.20.52:694][252]PIE: Servidor conectado
+[2021.08.20-07.20.52:695][252]PIE: Play in editor total start time 0,17 seconds.
+[2021.08.20-07.20.54:713][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-07.20.54:713][315]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2021.08.20-07.20.54:713][315]LogSlate: Window 'Tetris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.20-07.20.54:745][315]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.20.54:747][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.20.54:769][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.20-07.20.54:780][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.20.54:802][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.20-07.20.54:802][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-07.20.54:806][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-07.20.54:829][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.08.20-07.20.54:879][316]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2021.08.20-07.25.01:327][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.20-07.25.01:327][871]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.25.01:327][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.25.30:380][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris/Bp_Tetris" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset" SILENT=true
+[2021.08.20-07.25.30:578][318]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Tetris250F245F4B1899FD39EDD0AD71FF3056.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset'
+[2021.08.20-07.25.30:597][318]AssetCheck: New page: Asset Save: Bp_Tetris
+[2021.08.20-07.25.30:597][318]LogContentValidation: Display: Validating Blueprint /Game/Tetris/Bp_Tetris.Bp_Tetris
+[2021.08.20-07.30.41:825][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.08.20-07.30.41:838][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map' took 0.041
+[2021.08.20-07.30.41:839][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tetris/Bp_Tetris] ([2] browsable assets)...
+[2021.08.20-07.30.41:839][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tetris/Bp_Tetris]
+[2021.08.20-07.30.42:039][690]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Tetris_Auto562A57C334388F718B233279F92318059.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Autosaves/Game/Tetris/Bp_Tetris_Auto5.uasset'
+[2021.08.20-07.30.42:041][690]LogFileHelpers: Auto-saving content packages took 0.202
+[2021.08.20-07.32.53:482][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block.Bp_Block
+[2021.08.20-07.42.04:445][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.08.20-07.42.04:460][256]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Map_Auto6AE19924942F47791ECDFD091774B27D2.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Autosaves/Game/Map/Map_Auto6.umap'
+[2021.08.20-07.42.04:462][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map' took 0.049
+[2021.08.20-07.42.04:462][256]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2021.08.20-07.42.04:463][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tetris/Bp_Tetris] ([2] browsable assets)...
+[2021.08.20-07.42.04:494][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tetris/Bp_Tetris.Bp_Tetris]
+[2021.08.20-07.42.04:523][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tetris/Bp_Tetris.Bp_Tetris]
+[2021.08.20-07.42.04:523][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tetris/Bp_Tetris]
+[2021.08.20-07.42.04:726][256]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Tetris_Auto605AA354A434EF2D4C4538883F3E68F97.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Autosaves/Game/Tetris/Bp_Tetris_Auto6.uasset'
+[2021.08.20-07.42.04:728][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tetris/Bp_Block] ([1] browsable assets)...
+[2021.08.20-07.42.04:760][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tetris/Bp_Block.Bp_Block]
+[2021.08.20-07.42.04:760][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tetris/Bp_Block]
+[2021.08.20-07.42.04:792][256]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Block_Auto60008F4F84381FA170E96E09B02E4C6D5.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Autosaves/Game/Tetris/Bp_Block_Auto6.uasset'
+[2021.08.20-07.42.04:793][256]LogFileHelpers: Auto-saving content packages took 0.331
+[2021.08.20-07.42.48:578][802]BlueprintLog: New page: Compilar Bp_Tetris
+[2021.08.20-07.42.48:634][802]LogBlueprint: Error: [AssetLog] C:\Users\mayla\OneDrive\Documentos\Unreal Projects\Tetris\Content\Tetris\Bp_Tetris.uasset: [Compiler] A propriedade associada a  Color Index  não foi encontrada
+[2021.08.20-07.42.48:685][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.20-07.42.56:227][217]BlueprintLog: New page: Compilar Bp_Block
+[2021.08.20-07.42.56:374][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.08.20-07.42.57:830][285]BlueprintLog: New page: Compilar Bp_Tetris
+[2021.08.20-07.42.57:942][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.08.20-07.51.05:603][190]BlueprintLog: New page: Compilar Bp_Tetris
+[2021.08.20-07.51.05:731][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.08.20-07.51.06:389][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris/Bp_Tetris" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset" SILENT=true
+[2021.08.20-07.51.06:593][199]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Tetris489C4406494AC89506AE36B5A66B3C70.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset'
+[2021.08.20-07.51.06:612][199]AssetCheck: New page: Asset Save: Bp_Tetris
+[2021.08.20-07.51.06:612][199]LogContentValidation: Display: Validating Blueprint /Game/Tetris/Bp_Tetris.Bp_Tetris
+[2021.08.20-07.51.07:535][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris/Bp_Block" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Block.uasset" SILENT=true
+[2021.08.20-07.51.07:567][242]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Block26C375B54B8D0E81B27843A61F9201F1.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Block.uasset'
+[2021.08.20-07.51.07:584][242]AssetCheck: New page: Asset Save: Bp_Block
+[2021.08.20-07.51.07:584][242]LogContentValidation: Display: Validating Blueprint /Game/Tetris/Bp_Block.Bp_Block
+[2021.08.20-07.51.12:905][394]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_01.Bp_Block_01
+[2021.08.20-07.51.19:276][733]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.51.19:276][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.51.19:336][733]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_01.Bp_Block_01
+[2021.08.20-07.51.54:954][967]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.51.54:954][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.52.15:627][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_00.Bp_Block_00
+[2021.08.20-07.52.20:900][226]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.52.20:900][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.52.20:962][226]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_00.Bp_Block_00
+[2021.08.20-07.52.27:300][490]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_06.Bp_Block_06
+[2021.08.20-07.52.29:737][605]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.52.29:737][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.52.29:797][605]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_06.Bp_Block_06
+[2021.08.20-07.53.04:580][958]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.53.04:580][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.53.22:511][768]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.20-07.53.22:511][768]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.53.22:511][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.54.00:284][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.08.20-07.54.00:301][274]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Map_Auto7C17D50EB4EA253CD6C9FBD943A70EE4D.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Autosaves/Game/Map/Map_Auto7.umap'
+[2021.08.20-07.54.00:303][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map' took 0.065
+[2021.08.20-07.54.00:303][274]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2021.08.20-07.54.36:613][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_02.Bp_Block_02
+[2021.08.20-07.54.39:117][977]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.54.39:117][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.54.39:180][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_02.Bp_Block_02
+[2021.08.20-07.55.02:579][797]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.55.02:580][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.55.05:696][896]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_03.Bp_Block_03
+[2021.08.20-07.55.09:230][ 27]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.55.09:230][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.55.09:293][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_03.Bp_Block_03
+[2021.08.20-07.55.11:328][ 89]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_04.Bp_Block_04
+[2021.08.20-07.55.13:332][183]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.55.13:332][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.55.13:394][183]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tetris/Bp_Block_04.Bp_Block_04
+[2021.08.20-07.56.13:082][986]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.56.13:082][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.56.34:391][904]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.20-07.56.34:391][904]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.56.34:391][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.56.36:875][ 45]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.20-07.56.36:875][ 45]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-07.56.36:875][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-07.58.10:588][110]LogEditorTransaction: Undo Mover Nó
+[2021.08.20-07.59.21:383][269]BlueprintLog: New page: Compilar Bp_Tetris
+[2021.08.20-07.59.21:517][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.08.20-07.59.22:201][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris/Bp_Tetris" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset" SILENT=true
+[2021.08.20-07.59.22:396][279]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/Bp_Tetris7C6BC221459BB91DCCA17BA17EF0ADF4.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Tetris/Bp_Tetris.uasset'
+[2021.08.20-07.59.22:412][279]AssetCheck: New page: Asset Save: Bp_Tetris
+[2021.08.20-07.59.22:412][279]LogContentValidation: Display: Validating Blueprint /Game/Tetris/Bp_Tetris.Bp_Tetris
+[2021.08.20-07.59.26:692][532]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.20-07.59.26:696][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.20-07.59.26:696][532]PIE: New page: Sessão de PIE : Map (20 de ago de 2021 01:59:26)
+[2021.08.20-07.59.26:697][532]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2021.08.20-07.59.26:700][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002662s)
+[2021.08.20-07.59.26:701][532]LogAIModule: Creating AISystem for world Map
+[2021.08.20-07.59.26:702][532]LogPlayLevel: PIE: World Init took: (0.001870s)
+[2021.08.20-07.59.26:702][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.004795s)
+[2021.08.20-07.59.26:723][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.08.20-07.59.26:724][532]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.20-07.59.26:724][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.20-07.59.26:724][532]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.20-07.59.26:724][532]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.20-07.59.26:728][532]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.20-07.59.26:728][532]LogAudioMixer: Display: 1: FrontRight
+[2021.08.20-07.59.26:746][532]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.08.20-07.59.26:747][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.20-07.59.26:747][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.20-07.59.26:747][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.20-07.59.26:747][532]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.20-07.59.26:747][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.20-07.59.26:747][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.20-07.59.26:764][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.20-07.59.26:764][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.20-07.59.26:764][532]LogInit: FAudioDevice initialized.
+[2021.08.20-07.59.26:764][532]LogAudio: Display: Audio Device (ID: 58) registered with world 'Map'.
+[2021.08.20-07.59.26:807][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-07.59.26:807][532]LogLoad: Game class is 'MyGameMode_C'
+[2021.08.20-07.59.26:813][532]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2021.08.20-04.59.26
+[2021.08.20-07.59.26:814][532]LogWorld: Bringing up level for play took: 0.004786
+[2021.08.20-07.59.26:814][532]LogOnline: OSS: Creating online subsystem instance for: :Context_124
+[2021.08.20-07.59.26:827][532]PIE: Servidor conectado
+[2021.08.20-07.59.26:834][532]PIE: Play in editor total start time 0,138 seconds.
+[2021.08.20-08.02.30:040][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.20-08.02.30:040][967]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2021.08.20-08.02.30:040][967]LogSlate: Window 'Tetris Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.20-08.02.30:093][967]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.08.20-08.02.30:096][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-08.02.30:244][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.20-08.02.30:259][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.20-08.02.30:279][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.20-08.02.30:279][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-08.02.30:280][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.20-08.02.30:304][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.20-08.02.30:494][968]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2021.08.20-08.02.39:772][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.08.20-08.02.39:800][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Map/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.20-08.02.39:819][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.08.20-08.02.39:831][500]LogSavePackage: Moving '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Saved/MapBBA923AD49AFD489B4EBE9808D997F39.tmp' to '../../../../../../Users/mayla/OneDrive/Documentos/Unreal Projects/Tetris/Content/Map/Map.umap'
+[2021.08.20-08.02.39:840][500]LogFileHelpers: Saving map 'Map' took 0.040
+[2021.08.20-08.02.39:852][500]AssetCheck: New page: Asset Save: Map
+[2021.08.20-08.02.39:852][500]LogContentValidation: Display: Validating World /Game/Map/Map.Map
